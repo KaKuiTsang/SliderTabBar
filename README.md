@@ -1,5 +1,5 @@
 # SliderTabBar
-A prototype of custom tab bar 
+A prototype of custom tab bar using SwiftUI with techniques of mask + matchedGeometryEffect
 
 ## Demo1
 # ![](demo1.gif)
